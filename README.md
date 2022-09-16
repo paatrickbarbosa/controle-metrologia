@@ -21,4 +21,4 @@ Desenvolvido usando as tecnologias:
   - JAVASCRIPT
   - PHP
   - MYSQL
-### base para do projeto ->https://github.com/Ethredah/PHP-Blog-Admin
+### base do projeto ->https://github.com/Ethredah/PHP-Blog-Admin
